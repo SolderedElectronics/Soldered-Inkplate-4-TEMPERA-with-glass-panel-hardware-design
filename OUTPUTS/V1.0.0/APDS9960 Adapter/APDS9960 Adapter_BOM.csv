@@ -1,0 +1,7 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"R1";"0603R";1;"10k";;;
+2;"C2";"0603C";1;"100n";;;
+3;"PAD4,PAD3,PAD5,PAD1,PAD2";"PAD_2x1.5";5;"PAD_2x1.5";;;
+4;"C1";"0603C";1;"1u";;;
+5;"U1";"APDS-9960";1;"APDS-9960";;;
+6;"C3";"1206C";1;"10u";;;
