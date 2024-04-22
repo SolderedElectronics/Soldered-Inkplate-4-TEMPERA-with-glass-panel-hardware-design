@@ -1,8 +1,9 @@
-## --- Product name --- Hardware design
+## Soldered Inkplate 4 TEMPERA with glass panel hardware design
 
-| ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+
+| ![Soldered Inkplate 4 TEMPERA with glass panel]([https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg](https://soldered.com/productdata/2024/02/inkplate-4-tempera-hero-1-jpg-md-fixed-xl.jpg)) |
 | :----------------------------------------------------------: |
-|      [--- product name ----](https://www.solde.red/SKU)      |
+|      [Soldered Inkplate 4 TEMPERA with glass panel](https://soldered.com/product/soldered-inkplate-4-tempera/)      |
 
 ------ product description ------
 
