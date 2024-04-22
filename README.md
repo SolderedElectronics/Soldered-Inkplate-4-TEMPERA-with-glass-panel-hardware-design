@@ -1,11 +1,11 @@
 ## Soldered Inkplate 4 TEMPERA with glass panel hardware design
 
 
-| ![Soldered Inkplate 4 TEMPERA with glass panel]([https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg](https://soldered.com/productdata/2024/02/inkplate-4-tempera-hero-1-jpg-md-fixed-xl.jpg)) |
+| ![image](https://soldered.com/productdata/2024/02/inkplate-4-tempera-hero-1-jpg-md-fixed-xl.jpg) |
 | :----------------------------------------------------------: |
 |      [Soldered Inkplate 4 TEMPERA with glass panel](https://soldered.com/product/soldered-inkplate-4-tempera/)      |
 
------- product description ------
+Inkplate 4 TEMPERA is an easy-to-use, all-in-one device that puts the power of e-paper technology in the palm of your hand. Behind its 3.8-inch, 600×600-pixel e-paper touchscreen, it packs the following features into one compact, elegant package: frontlighting, an abundance of sensors, Wi-Fi and Bluetooth connectivity, a built-in battery, and a low-power operating mode.
 
 ## Repository contents
 
